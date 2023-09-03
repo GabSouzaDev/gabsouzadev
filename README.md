@@ -66,3 +66,4 @@ Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnol
 
 ![curtida](https://img.shields.io/badge/Give%20ur-%E2%9D%A4-red.svg?style=flat)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=482f79&height=120&section=footer"/>
