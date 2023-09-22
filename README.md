@@ -32,10 +32,12 @@ Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnol
 ![C++](https://img.shields.io/badge/C%2B%2B-482f79?style=for-the-badge&logo=c%2B%2B&logoColor=a787db)
 ![JavaScript](https://img.shields.io/badge/JavaScript-332258?style=for-the-badge&logo=javascript&logoColor=a787db)
 ![PHP](https://img.shields.io/badge/php-482f79?style=for-the-badge&logo=php&logoColor=a787db)
+![Dart](https://img.shields.io/badge/Dart-332258?style=for-the-badge&logo=dart&logoColor=a787db)
 
 ### Libraries and Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-332258?style=for-the-badge&logo=bootstrap&logoColor=a787db)
 ![React](https://img.shields.io/badge/React-482f79?style=for-the-badge&logo=react&logoColor=a787db)
+![Flutter](https://img.shields.io/badge/Flutter-332258?style=for-the-badge&logo=flutter&logoColor=a787db)
 
 
 ## **Github Stats**
