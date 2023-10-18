@@ -55,8 +55,10 @@ Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnol
 </div><br>
 
 
-## **My Contribs**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=dio-lab-open-source-Gabriel&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)](https://github.com/GabSouzaDev/repo=dio-lab-open-source-Gabriel)
+## **My Projets**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=tasklist_flutter&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)]([https://github.com/GabSouzaDev/tasklist_flutter](https://github.com/GabSouzaDev/tasklist_flutter))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=tasklist_flutter&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)](https://github.com/GabSouzaDev/IMC_Calculator_flutter)
+
 
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=A787DB&center=true&vCenter=true&width=700&height=100&lines=Thanks+for+viewing+my+GitHub+Profile;Give+Your+Like+%E2%9D%A4" alt="Typing SVG" /></a>
