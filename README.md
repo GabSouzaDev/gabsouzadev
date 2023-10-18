@@ -57,7 +57,7 @@ Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnol
 
 ## **My Projets**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=tasklist_flutter&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)]([https://github.com/GabSouzaDev/tasklist_flutter](https://github.com/GabSouzaDev/tasklist_flutter))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=tasklist_flutter&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)](https://github.com/GabSouzaDev/IMC_Calculator_flutter)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabSouzaDev&repo=IMC_Calculator_flutter&bg_color=332258&border_color=a787db&show_icons=true&icon_color=a787db&title_color=a787db&text_color=FFF)]([https://github.com/GabSouzaDev/tasklist_flutter](https://github.com/GabSouzaDev/IMC_Calculator_flutter))
 
 
 <div align=center>
