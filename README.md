@@ -7,11 +7,11 @@
 
 ## EN:
 
-My name is Gabriel Souza, I'm Brazilian and I'm 24 Years Old and I am addicted to technology. I am currently taking a course in Systems Analysis and Development with a focus on frontend and, in the future, I intend to master the backend and become a fullstack professional. I am fascinated by everything that involves programming, from creating amazing websites to hacking NASA. Just kidding, I would never do that. Or would I? Well, what matters is that I love what I do and I am always looking to improve and learn new things. 🚀
+My name is Gabriel Souza, I'm Brazilian and I'm 24 Years Old and I am addicted to technology. I'm graduated as a Systems Analyst and Developer with a focus on frontend and, in the future, I intend to master the backend and become a fullstack professional. I am fascinated by everything that involves programming, from creating amazing websites to hacking NASA. Just kidding, I would never do that. Or would I? Well, what matters is that I love what I do and I am always looking to improve and learn new things. 🚀
 
 ## BR:
 
-Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnologia. Atualmente estou fazendo um curso de Análise e Desenvolvimento de Sistemas com foco no frontend e, futuramente pretendo dominar o backend e me tornar um profissional fullstack. Sou fascinado por tudo que envolve programação, desde criar sites incríveis até hackear a NASA. Brincadeira, eu nunca faria isso. Ou faria? Bom, o que importa é que eu amo o que faço e estou sempre buscando me aperfeiçoar e aprender coisas novas. 🚀
+Olá, me chamo Gabriel, sou Brasileiro, tenho 24 anos e sou um viciado em tecnologia. Graduado em Análise e Desenvolvimento de Sistemas com foco no frontend e mobile e, futuramente pretendo dominar o backend e me tornar um profissional fullstack. Sou fascinado por tudo que envolve programação, desde criar sites incríveis até hackear a NASA. Brincadeira, eu nunca faria isso. Ou faria? Bom, o que importa é que eu amo o que faço e estou sempre buscando me aperfeiçoar e aprender coisas novas. 🚀
 
 
 ## **Connect with me**
